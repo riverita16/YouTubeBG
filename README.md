@@ -5,3 +5,4 @@ This is meant to be hosted online so it is accessible on mobile devices. Primary
 
 ## Workflow
 - [ ] Set up github page for hosting
+   - Make landing page
